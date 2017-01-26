@@ -73,7 +73,7 @@
             android:layout_weight="1"
             android:layout_margin="6dp"
             android:background="@color/white"
-            android:id="@+id/button3"/>
+            android:id="@+id/button3" />
 
 
 
